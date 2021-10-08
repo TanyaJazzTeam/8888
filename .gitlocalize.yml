@@ -1,0 +1,11 @@
+pretranslate:
+  segments:
+    ignore_frontmatter_keys:
+    - " layout"
+    - " title"
+    - " description"
+    - " hero"
+    - " authors"
+    - " date"
+    - " updated"
+    - " tags"
