@@ -20,7 +20,7 @@ opportunities to improve.
 
 ## Overview
 
-Web Vitals is an initiative by Google to provide unified guidance for quality
+{a0}Web{/a0} Vitals is an initiative by Google to provide unified guidance for quality
 signals that are essential to delivering a great user experience on the web.
 
 Google has provided a number of tools over the years to measure and report on
